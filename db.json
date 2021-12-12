@@ -1,28 +1,124 @@
 {
-    "results":[
-{ 
-    "id": "1", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney1.jpg", "description": "Funko-Pop |Disney Universe| Dumbo", "price": 540
-},
-{ 
-    "id": "2", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney2.jpg", "description": "Funko-Pop |Disney Universe| Stich", "price": 310
-},
-{ 
-    "id": "3", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney3.png", "description": "Funko-Pop |Disney Universe| Walru", "price": 499
-},
-{ 
-    "id": "4", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney4.jpeg", "description": "Funko-Pop |Disney Universe| Wall-E", "price": 289
-},
-{ 
-    "id": "5", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon1.jpg", "description": "Funko-Pop |Dragon ball| Super Saiyan Goku", "price": 399 
-},
-{ 
-    "id": "6", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon2.jpeg", "description": "Funko-Pop |Dragon ball| Vegeta Over 9000", "price": 799 
-},
-{ 
-    "id": "7", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon3.jpg", "description": "Funko-Pop |Dragon ball| Super Saiyan Vegito", "price": 690 
-},
-{ 
-    "id": "8", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon4.jpg", "description": "Funko-Pop |Dragon ball| Frieza", "price": 499 
-}
-]
+    "results": [
+        {
+            "id": "1",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney1.jpg",
+            "description": "Funko-Pop |Disney Universe| Dumbo",
+            "price": 540
+        },
+        {
+            "id": "2",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney2.jpg",
+            "description": "Funko-Pop |Disney Universe| Stich",
+            "price": 310
+        },
+        {
+            "id": "3",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney3.png",
+            "description": "Funko-Pop |Disney Universe| Walru",
+            "price": 499
+        },
+        {
+            "id": "4",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney4.jpeg",
+            "description": "Funko-Pop |Disney Universe| Wall-E",
+            "price": 289
+        },
+        {
+            "id": "5",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon1.jpg",
+            "description": "Funko-Pop |Dragon ball| Super Saiyan Goku",
+            "price": 399
+        },
+        {
+            "id": "6",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon2.jpeg",
+            "description": "Funko-Pop |Dragon ball| Vegeta Over 9000",
+            "price": 799
+        },
+        {
+            "id": "7",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon3.jpg",
+            "description": "Funko-Pop |Dragon ball| Super Saiyan Vegito",
+            "price": 690
+        },
+        {
+            "id": "8",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon4.jpg",
+            "description": "Funko-Pop |Dragon ball| Frieza",
+            "price": 499
+        },
+        {
+            "id": "9",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageHarry/harry1.jpg",
+            "description": "Funko-Pop |Harry Potter| Gringotts Dragon",
+            "price": 1199
+        },
+        {
+            "id": "10",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageHarry/harry2.jpg",
+            "description": "Funko-Pop |Harry Potter| Harry Potter",
+            "price": 499
+        },
+        {
+            "id": "11",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageHarry/harry3.jpg",
+            "description": "Funko-Pop |Harry Potter| Draco Malfoy",
+            "price": 399
+        },
+        {
+            "id": "12",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageHarry/harry4.jpg",
+            "description": "Funko-Pop |Harry Potter| Patronus Remus Lupin",
+            "price": 419
+        },
+        {
+            "id": "13",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageMarvel/marvel1.jpg",
+            "description": "Funko-Pop |Marvel Venom| Carnage",
+            "price": 349
+        },
+        {
+            "id": "14",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageMarvel/marvel2.jpg",
+            "description": "Funko-Pop |Marvel| Spider-Man",
+            "price": 399
+        },
+        {
+            "id": "15",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageMarvel/marvel3.jpg",
+            "description": "Funko-Pop |Marvel Wanda-Vision| Vision",
+            "price": 349
+        },
+        {
+            "id": "16",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageMarvel/marvel4.jpeg",
+            "description": "Funko-Pop |Marvel Loki| Kid Loki",
+            "price": 499
+        },
+        {
+            "id": "17",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageStarWars/starWars1.jpg",
+            "description": "Funko-Pop |Star Wars The clon Wars| Anakin Skywalker",
+            "price": 349
+        },
+        {
+            "id": "18",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageStarWars/starWars2.jpg",
+            "description": "Funko-Pop |Star Wars The mandalorian| Boba Fett",
+            "price": 399
+        },
+        {
+            "id": "19",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageStarWars/starWars3.jpg",
+            "description": "Funko-Pop |Star Wars Concept| Han Solo",
+            "price": 399
+        },
+        {
+            "id": "20",
+            "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageStarWars/starWars5.png",
+            "description": "Funko-Pop |Star Wars| The Mandalorian with Grogu.",
+            "price": 399
+        }
+    ]
 }
