@@ -1,0 +1,2 @@
+# funkos
+obtener info funkos
