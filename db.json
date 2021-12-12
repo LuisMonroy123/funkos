@@ -1,0 +1,28 @@
+{
+    "results":[
+{ 
+    "id": "1", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney1.jpg", "description": "Funko-Pop |Disney Universe| Dumbo", "price": 540
+},
+{ 
+    "id": "2", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney2.jpg", "description": "Funko-Pop |Disney Universe| Stich", "price": 310
+},
+{ 
+    "id": "3", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney3.png", "description": "Funko-Pop |Disney Universe| Walru", "price": 499
+},
+{ 
+    "id": "4", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDisney/disney4.jpeg", "description": "Funko-Pop |Disney Universe| Wall-E", "price": 289
+},
+{ 
+    "id": "5", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon1.jpg", "description": "Funko-Pop |Dragon ball| Super Saiyan Goku", "price": 399 
+},
+{ 
+    "id": "6", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon2.jpeg", "description": "Funko-Pop |Dragon ball| Vegeta Over 9000", "price": 799 
+},
+{ 
+    "id": "7", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon3.jpg", "description": "Funko-Pop |Dragon ball| Super Saiyan Vegito", "price": 690 
+},
+{ 
+    "id": "8", "image": "https://github.com/LuisMonroy123/proyectoTienda/blob/main/src/image/imageDragon/dragon4.jpg", "description": "Funko-Pop |Dragon ball| Frieza", "price": 499 
+}
+]
+}
